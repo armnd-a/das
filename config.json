@@ -1,0 +1,18 @@
+{
+  "ownerNumber":  ["6287823406145@s.whatsapp.net","6287823406145@s.whatsapp.net","6287823406145@s.whatsapp.net"],
+  "numberOwner": "6287823406145",
+  "botName": "Clarine - Bot",
+  "packname" : "Clarine",
+  "author" : "AXT",
+  "Prefix" : "Multi",
+  "sessionName": "botindo",
+  "Mode": "Public",
+  "pathImg": "./media/bobi.jpg",
+  "fakeImg": "./media/fake.jpg",
+  "gamewaktu": 60,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 1000,
+	"user": 150
+  }
+}
